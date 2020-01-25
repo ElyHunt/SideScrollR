@@ -4,10 +4,14 @@ using UnityEngine;
 
 public class FoxMovement : MonoBehaviour
 {
+    //Global Variables.
+
+    Animator theAnimator;
+
     // Start is called before the first frame update
     void Start()
     {
-        
+        theAnimator = GetComponent<Animator>();
     }
 
     // Update is called once per frame
@@ -21,7 +25,9 @@ public class FoxMovement : MonoBehaviour
         if(Input.GetKey("right"))
             {
                 //Stub. Move fox right.
+                theAnimator.
                 transform.position += new Vector3(.1f, 0, 0);
+
             }
         if(Input.GetKey("left"))
             {
