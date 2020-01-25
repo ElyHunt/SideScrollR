@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: aa5d2bad903854017b73838c5f2e355b
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Denne Marker
+  fontNames:
+  - Denne Marker
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 75187e8be71b94535abb3d658d03a684, type: 3}
+  - {fileID: 12800000, guid: 564053ad3cab6457b95a546e0dbc519e, type: 3}
+  - {fileID: 12800000, guid: 0f8679ee930204abbb5129c41aa3da38, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
