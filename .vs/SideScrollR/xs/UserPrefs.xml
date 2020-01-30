@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{355066CC-3418-67CF-43A2-A02577576E79}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/FoxMovement.cs">
+    <Files>
+      <File FileName="Assets/FoxMovement.cs" Line="29" Column="23" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SideScrollR" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="FoxMovement.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="850f2d3f-d997-49e0-be5e-fe28698bcba8" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
