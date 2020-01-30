@@ -25,13 +25,15 @@ public class FoxMovement : MonoBehaviour
         if(Input.GetKey("right"))
             {
                 //Stub. Move fox right.
-                theAnimator.
+                theAnimator.SetBool("isWalking", true);
+		transform.rotation = Quaternion.Euler(0, 90, 0);
                 transform.position += new Vector3(.1f, 0, 0);
-
             }
         if(Input.GetKey("left"))
             {
                 //Stub. Move fox left.
+                theAnimator.SetBool("isWalking", true);
+		transform.rotation = Quaternion.Euler(0, -90, 0);
                 transform.position += new Vector3(-.1f, 0, 0);
             }
         if(Input.GetKey("up"))
