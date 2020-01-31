@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{355066CC-3418-67CF-43A2-A02577576E79}|">
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets/FoxMovement.cs">
     <Files>
-      <File FileName="Assets/FoxMovement.cs" Line="29" Column="23" />
+      <File FileName="Assets/FoxMovement.cs" Line="77" Column="6" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -12,6 +12,9 @@
             </Node>
           </Node>
         </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
